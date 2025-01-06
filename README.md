@@ -60,6 +60,8 @@ Este projeto pode ser utilizado para:
 ### Minirrelatórios
 Para contextualizar e facilitar o entendimento com cada gráfico, fica aqui uma explicação direta de cada gráfico plotado
 
+![Data Analytics](https://github.com/user-attachments/assets/d12ad8c7-68ea-4ecb-a87a-3c6361148e99)
+
 1. **Relação entre PIB per capita e Satisfação com a Vida (Gráfico Azul):**  
    Este gráfico mostra uma correlação positiva entre o PIB per capita e a satisfação com a vida. À medida que o PIB per capita aumenta, a satisfação com a vida também tende a crescer. Isso sugere que economias mais prósperas podem oferecer melhores condições de vida, refletindo-se na felicidade da população.
 
